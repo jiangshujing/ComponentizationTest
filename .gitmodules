@@ -1,3 +1,6 @@
 [submodule "DataStructureDemo"]
 	path = DataStructureDemo
 	url = https://github.com/jiangshujing/DataStructureDemo.git
+[submodule "LibraryA"]
+	path = LibraryA
+	url = https://github.com/jiangshujing/LibraryA.git
